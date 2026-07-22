@@ -2,27 +2,20 @@
 
 A responsive travel and tourism website developed for **Klein Safaris** using **HTML5, CSS3, and JavaScript**.
 
----
+## 📖 Overview
 
-## 📖 Project Overview
-
-The Klein Safaris Website was designed to provide a modern online presence for a travel and tourism company. It showcases safari destinations, travel packages, company information, and useful travel resources through a responsive and intuitive interface.
-
----
+Klein Safaris is a modern tourism website designed to showcase local and international travel packages. The website features an intuitive layout, destination galleries, travel information, and responsive design for an excellent user experience across desktop and mobile devices.
 
 ## ✨ Features
 
-- Responsive web design
-- Interactive navigation
-- Local safari packages
-- International travel destinations
-- Travel suggestions
-- Image gallery
+- Responsive design
+- Safari package listings
+- International destination showcase
+- Interactive image gallery
 - Contact page
+- Modern user interface
 
----
-
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
@@ -30,51 +23,51 @@ The Klein Safaris Website was designed to provide a modern online presence for a
 
 ---
 
-## 📸 Project Screenshots
+# 📸 Project Screenshots
 
-### 🏠 Home Page
+## 🏠 Home Page
 
-![Home Page](screenshots/home-page.png)
-
----
-
-### 👥 About Us
-
-![About Us](screenshots/about-us.png)
+![Home Page](screenshots/home%20page.png)
 
 ---
 
-### 🦁 Local Safari Packages
+## 👥 About Us
 
-![Local Safari Packages](screenshots/local-safari-packages.png)
-
----
-
-### 🌍 International Destinations
-
-![International Destinations](screenshots/international-destinations.png)
+![About Us](screenshots/about%20us.png)
 
 ---
 
-### 💡 Travel Suggestions
+## 🦁 Safari Packages
 
-![Travel Suggestions](screenshots/travel-suggestions.png)
+![Packages](screenshots/Packages.png)
 
 ---
 
-### 🖼 Gallery
+## 🌍 International Destination
+
+![International Destination](screenshots/International%20destination.png)
+
+---
+
+## ✈️ More International Destinations
+
+![International Destination 1](screenshots/international%20destination%201.png)
+
+---
+
+## 🖼️ Gallery
 
 ![Gallery](screenshots/gallery.png)
 
 ---
 
-### 📞 Contact Us
+## 📞 Contact Us
 
-![Contact Us](screenshots/contact-us.png)
+![Contact Us](screenshots/contact%20us.png)
 
 ---
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
 Clone the repository:
 
@@ -82,46 +75,25 @@ Clone the repository:
 git clone https://github.com/marktrevorkingori/Klein-Safaris.git
 ```
 
-Open the project folder and launch **index.html** in your preferred web browser.
+Open the project folder and launch:
 
----
-
-## 📂 Project Structure
-
-```text
-Klein-Safaris/
-│
-├── css/
-├── img/
-├── js/
-├── screenshots/
-├── index.html
-├── about us.html
-├── Gallery.html
-└── Team.html
+```
+index.html
 ```
 
----
-
-## 🔮 Future Improvements
-
-- Online booking system
-- Customer authentication
-- Backend integration with PHP & MySQL
-- Secure payment gateway
-- Tour management dashboard
-- Live chat support
+in your preferred web browser.
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-**Marktrevor Kingori**
+**Marktrevor Nderitu Kingori**
 
 - GitHub: https://github.com/marktrevorkingori
+- LinkedIn: https://www.linkedin.com/in/marktrevorkingori
 
 ---
 
 ## 📄 License
 
-This project is shared for educational and portfolio purposes.
+This project is intended for educational and portfolio purposes.
