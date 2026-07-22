@@ -1,29 +1,28 @@
 # 🌍 Klein Safaris Website
 
-A responsive travel and tourism website built for **Klein Safaris** using **HTML5, CSS3, and JavaScript**. The website provides visitors with information about safari experiences, travel destinations, tour packages, and the company while delivering a responsive and engaging user experience.
+A responsive travel and tourism website developed for **Klein Safaris** using **HTML5, CSS3, and JavaScript**.
 
 ---
 
-# 📖 Project Overview
+## 📖 Project Overview
 
-The Klein Safaris Website was developed to establish a modern online presence for a travel and tourism company. The project focuses on showcasing local and international safari experiences through an intuitive interface that is accessible across desktop and mobile devices.
+The Klein Safaris Website was designed to provide a modern online presence for a travel and tourism company. It showcases safari destinations, travel packages, company information, and useful travel resources through a responsive and intuitive interface.
 
 ---
 
-# ✨ Features
+## ✨ Features
 
-- Responsive website design
+- Responsive web design
 - Interactive navigation
-- Safari package showcase
-- Local & international destinations
-- Destination gallery
-- About Us page
-- Team section
+- Local safari packages
+- International travel destinations
+- Travel suggestions
+- Image gallery
 - Contact page
 
 ---
 
-# 🛠 Technologies Used
+## 🛠 Technologies Used
 
 - HTML5
 - CSS3
@@ -31,51 +30,51 @@ The Klein Safaris Website was developed to establish a modern online presence fo
 
 ---
 
-# 📸 Project Screenshots
+## 📸 Project Screenshots
 
-## 🏠 Home Page
+### 🏠 Home Page
 
-![Home Page](screenshots/home%20page.png)
-
----
-
-## 👥 About Us
-
-![About Us](screenshots/about%20us.png)
+![Home Page](screenshots/home-page.png)
 
 ---
 
-## 🧳 Featured Safari Packages
+### 👥 About Us
 
-![Safari Packages](screenshots/gallery.png)
-
----
-
-## 🌍 Additional Safari Packages
-
-![Safari Packages](screenshots/gallery%201.png)
+![About Us](screenshots/about-us.png)
 
 ---
 
-## ✈️ International Safari Destinations
+### 🦁 Local Safari Packages
 
-![International Destinations](screenshots/international%20destination.png)
-
----
-
-## 🌎 More International Destinations
-
-![International Destinations](screenshots/international%20destination%201.png)
+![Local Safari Packages](screenshots/local-safari-packages.png)
 
 ---
 
-## 📞 Contact Us
+### 🌍 International Destinations
 
-![Contact Us](screenshots/contact%20us.png)
+![International Destinations](screenshots/international-destinations.png)
 
 ---
 
-# 🚀 Getting Started
+### 💡 Travel Suggestions
+
+![Travel Suggestions](screenshots/travel-suggestions.png)
+
+---
+
+### 🖼 Gallery
+
+![Gallery](screenshots/gallery.png)
+
+---
+
+### 📞 Contact Us
+
+![Contact Us](screenshots/contact-us.png)
+
+---
+
+## 🚀 Getting Started
 
 Clone the repository:
 
@@ -87,7 +86,7 @@ Open the project folder and launch **index.html** in your preferred web browser.
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 Klein-Safaris/
@@ -104,19 +103,18 @@ Klein-Safaris/
 
 ---
 
-# 🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Online booking system
-- Customer accounts
-- Secure authentication
+- Customer authentication
 - Backend integration with PHP & MySQL
-- Payment gateway integration
+- Secure payment gateway
 - Tour management dashboard
-- Online inquiry form
+- Live chat support
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Marktrevor Kingori**
 
@@ -124,6 +122,6 @@ Klein-Safaris/
 
 ---
 
-# 📄 License
+## 📄 License
 
 This project is shared for educational and portfolio purposes.
