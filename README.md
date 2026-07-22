@@ -45,13 +45,13 @@ Klein Safaris is a modern tourism website designed to showcase local and interna
 
 ## 🌍 International Destination
 
-![International Destination](screenshots/International%20destination.png)
+![International Destination](screenshots/Interantional%20destinantion.png)
 
 ---
 
 ## ✈️ More International Destinations
 
-![International Destination 1](screenshots/international%20destination%201.png)
+![International Destination 1](screenshots/international%20destinantion%201.png)
 
 ---
 
